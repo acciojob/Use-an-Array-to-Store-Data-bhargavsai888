@@ -1,1 +1,1 @@
-
+let yourArray=['hi',true,5,2,"hello"];
